@@ -4,4 +4,4 @@
 -Spouse visa
 -I Completed 6 months Data Analyst and Data Science course 
 -Now I am focusiong on various courses to improve my skills.
--Kindly consider my profile and codes & activitieS in github for consider my CV.
+-Kindly consider my profile and codes & activitieS in github.
